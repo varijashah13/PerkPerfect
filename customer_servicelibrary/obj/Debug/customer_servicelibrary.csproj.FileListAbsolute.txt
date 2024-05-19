@@ -1,0 +1,7 @@
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\bin\Debug\customer_servicelibrary.dll.config
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\bin\Debug\customer_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\bin\Debug\customer_servicelibrary.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\obj\Debug\customer_servicelibrary.csproj.AssemblyReference.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\obj\Debug\customer_servicelibrary.csproj.CoreCompileInputs.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\obj\Debug\customer_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\customer_servicelibrary\obj\Debug\customer_servicelibrary.pdb

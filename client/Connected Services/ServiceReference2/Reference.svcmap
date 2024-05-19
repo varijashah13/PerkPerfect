@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="59181f94-d2d9-4318-9c1f-13027d5b082e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/FoodItemService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FoodItemService.xsd" MetadataType="Schema" ID="def19f5c-34de-4914-bde4-c6d3120ff9e0" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?xsd=xsd3" />
+    <MetadataFile FileName="FoodItemService1.xsd" MetadataType="Schema" ID="604f0add-5d25-4e54-890e-8f3926cdba58" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?xsd=xsd0" />
+    <MetadataFile FileName="FoodItemService.disco" MetadataType="Disco" ID="e0ed082c-c792-4334-b135-ca4d839e4ec4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?disco" />
+    <MetadataFile FileName="FoodItemService.wsdl" MetadataType="Wsdl" ID="fb9fe79e-252f-4a0d-8dd3-ca5e26bc4539" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?wsdl" />
+    <MetadataFile FileName="FoodItemService2.xsd" MetadataType="Schema" ID="f5530741-c196-4f48-8182-5b3d88fa94f9" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?xsd=xsd1" />
+    <MetadataFile FileName="FoodItemService3.xsd" MetadataType="Schema" ID="019eca50-95e4-48c1-b951-2f222770b850" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FoodItemService?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

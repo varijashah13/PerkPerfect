@@ -1,0 +1,7 @@
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\bin\Debug\order_servicelibrary.dll.config
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\bin\Debug\order_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\bin\Debug\order_servicelibrary.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\obj\Debug\order_servicelibrary.csproj.AssemblyReference.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\obj\Debug\order_servicelibrary.csproj.CoreCompileInputs.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\obj\Debug\order_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\order_servicelibrary\obj\Debug\order_servicelibrary.pdb

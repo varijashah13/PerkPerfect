@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChefClient",
+    "\\ChefServiceHostConsole",
+    "\\chef_servicelibrary",
+    "\\customer_servicelibrary",
+    "\\order_servicelibrary"
+  ],
+  "SelectedNode": "\\order_servicelibrary\\Iorder.cs",
+  "PreviewInSolutionExplorer": false
+}

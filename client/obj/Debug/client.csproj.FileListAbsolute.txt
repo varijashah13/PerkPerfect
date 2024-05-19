@@ -1,0 +1,14 @@
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\bin\Debug\client.exe.config
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\bin\Debug\client.exe
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\bin\Debug\client.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Form1.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.exe
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Form2.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Form3.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Form4.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\client\obj\Debug\client.Form5.resources

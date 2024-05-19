@@ -1,0 +1,10 @@
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\bin\Debug\ChefClient.exe.config
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\bin\Debug\ChefClient.exe
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\bin\Debug\ChefClient.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.csproj.AssemblyReference.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.Form1.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.Properties.Resources.resources
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.csproj.GenerateResource.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.csproj.CoreCompileInputs.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.exe
+C:\Users\varij\OneDrive\Desktop\wsd_project\ChefClient\obj\Debug\ChefClient.pdb

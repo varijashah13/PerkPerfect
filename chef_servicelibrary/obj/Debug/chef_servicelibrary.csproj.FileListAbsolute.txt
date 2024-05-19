@@ -1,0 +1,7 @@
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\obj\Debug\chef_servicelibrary.csproj.AssemblyReference.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\obj\Debug\chef_servicelibrary.csproj.CoreCompileInputs.cache
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\bin\Debug\chef_servicelibrary.dll.config
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\bin\Debug\chef_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\bin\Debug\chef_servicelibrary.pdb
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\obj\Debug\chef_servicelibrary.dll
+C:\Users\varij\OneDrive\Desktop\wsd_project\chef_servicelibrary\obj\Debug\chef_servicelibrary.pdb

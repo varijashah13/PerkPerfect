@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="462c1170-6339-4b4a-b970-6b2176ae8ba0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ChefService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ChefService.xsd" MetadataType="Schema" ID="51f38819-dfa1-434e-9288-a3f3ca8ecce4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?xsd=xsd0" />
+    <MetadataFile FileName="ChefService.wsdl" MetadataType="Wsdl" ID="21c2ef99-484d-4679-a69d-4829a0593f90" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?wsdl" />
+    <MetadataFile FileName="ChefService.disco" MetadataType="Disco" ID="b6a5199a-e301-4ef0-a762-4777d41d368d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?disco" />
+    <MetadataFile FileName="ChefService1.xsd" MetadataType="Schema" ID="83be5721-1318-403f-acf1-81ea7c9106e5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?xsd=xsd2" />
+    <MetadataFile FileName="ChefService2.xsd" MetadataType="Schema" ID="0f3428b9-f261-408e-a4ac-7ff6a70e4ab5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?xsd=xsd3" />
+    <MetadataFile FileName="ChefService3.xsd" MetadataType="Schema" ID="434bed34-ca2e-404c-b15d-face7a6fa7e7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ChefService?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
